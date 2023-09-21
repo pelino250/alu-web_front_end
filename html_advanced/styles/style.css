@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+}
+h1 a {
+  text-decoration: none;
+}
+
+button {
+  color: #FF0000;
+}
+button:hover {
+  color: #0000FF;
+}/*# sourceMappingURL=style.css.map */

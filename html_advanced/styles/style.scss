@@ -1,0 +1,16 @@
+$primaryColor : red;
+
+h1{
+    color: $primaryColor;
+
+    a{
+        text-decoration: none;
+    }
+}
+
+button {
+    color: #FF0000; 
+    &:hover {
+        color: #0000FF;
+    }
+}
